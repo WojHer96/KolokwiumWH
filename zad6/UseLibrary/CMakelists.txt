@@ -1,0 +1,10 @@
+cmake_minimum_required(VERSION 3.0)
+project(UseLibrary)
+
+set(PROJECT_LINK_LIBS test.so)
+link_directories(/home/cisco/KolokwiumWH/zad6/CreateLibrary/build)
+
+include_directories(/home/cisco/KolokwiumWH/zad6/CreateLibrary/include)
+add_executable(Uselib main.cpp)
+target_link_libraries(Uselib ${PROJECT_LINK_LIBS})
+ 

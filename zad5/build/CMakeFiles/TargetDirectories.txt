@@ -1,0 +1,8 @@
+/home/cisco/KolokwiumWH/zad5/build/CMakeFiles/install/strip.dir
+/home/cisco/KolokwiumWH/zad5/build/CMakeFiles/install/local.dir
+/home/cisco/KolokwiumWH/zad5/build/CMakeFiles/edit_cache.dir
+/home/cisco/KolokwiumWH/zad5/build/CMakeFiles/myProgram.exe.dir
+/home/cisco/KolokwiumWH/zad5/build/CMakeFiles/Library.dir
+/home/cisco/KolokwiumWH/zad5/build/CMakeFiles/rebuild_cache.dir
+/home/cisco/KolokwiumWH/zad5/build/CMakeFiles/list_install_components.dir
+/home/cisco/KolokwiumWH/zad5/build/CMakeFiles/install.dir
